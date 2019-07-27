@@ -1,0 +1,8 @@
+#exlude PPT Files
+*.ppt
+
+#exlude PNG Files
+*.ppt
+
+#exlude LOG Files
+*.log
