@@ -1,0 +1,1 @@
+COPY yelp_tip FROM 'C:\YelpStuff\yelp_tip.csv' WITH (FORMAT csv);
